@@ -14,4 +14,4 @@ https://weather-woad.vercel.app/
 
 Obs.: Para melhor experiência acessar pelo smartphone.
 
-![Previsão](https://imgur.com/a/01F13Ln)
+<img src="https://imgur.com/a/01F13Ln" alt="previsao">
